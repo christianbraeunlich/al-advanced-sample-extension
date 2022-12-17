@@ -1,0 +1,17 @@
+{
+    "id": "b90e682f-5ce6-4c05-a1e1-57797556ea9c",
+    "name": "CustomerRewardsTest",
+    "publisher": "Microsoft",
+    "version": "1.0.0.0",
+    "application": "21.2.0.0",
+    "platform": "21.0.0.0",
+    "dependencies": [
+        {
+            "id": "c228bdcf-7112-480b-a832-da81971b6feb",
+            "name": "CustomerRewards",
+            "publisher": "Microsoft",
+            "version": "1.0.0.0"
+        }
+    ],
+    "test": "13.0.0.0"
+}
